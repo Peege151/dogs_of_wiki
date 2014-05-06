@@ -1,0 +1,1 @@
+This is a collection of dog images from wikipedia.  All images fall under the GNU license.  Populate your dummy data with these images!
